@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    height: 125px;
+    width: 125px;
+}
+
+.undug {
+    background-color: green;
+}
+
+.dug {
+    background-color: brown;
+}
+
+.dug-bone {
+    background-color: brown;
+    background-image: url("bone.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
